@@ -4,7 +4,7 @@ https://github.com/I-S00N/I-S00N
 # Anxun-isoon
 The iSoon/Anxun leak in a single json file (cn_extracted_messages.json) from https://github.com/soufianetahiri/Anxun-isoon
 
-# dataset
+# Dataset
 
 It is said that projects that share leaked information will be deleted.
 
@@ -49,8 +49,8 @@ gr.ChatInterface(predict).launch(server_name="0.0.0.0",ssl_certfile="cert.pem",s
 
 # Demo
 
-Gradio Support
+## Gradio Support
 ![](assets/rag_sample1.png)
 
-Langsmith track
+## Langsmith track
 ![](assets/rag_sample2.png)
