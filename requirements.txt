@@ -3,3 +3,8 @@ langchain_openai
 openai
 unstrcurated
 beautifulsoup4
+chromadb
+langchainhub
+jq 
+unstructured 
+gradio
